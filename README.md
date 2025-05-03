@@ -1,6 +1,6 @@
 # Machine Learning - Generative Models
 
-An exploration into probabalistic generative models; the EM algorithm; and the impact of latent variables.
+An exploration into probabalistic generative models; the EM algorithm; and the impact of latent variables. Written in Python.
 
 - Spherical K-Means
 - The EM algortithm on handwriting digit samples
